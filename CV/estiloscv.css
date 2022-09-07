@@ -1,0 +1,152 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 0;
+}
+
+.boxconteiner{
+    font-size: 10;
+    
+}
+
+.box1 h3 {
+    color: pink;
+}
+.box2 h3 {
+    color: pink;
+}
+.box3 h3 {
+    color: pink;
+}
+.box4 h3 {
+    color: pink;
+}
+.box5 h3 {
+    color: pink;
+}
+.box6 h3 {
+    color: pink;
+}
+.box7 h3 {
+    color: pink;
+}
+.box8 h3 {
+    color: pink;
+}
+.imagenbox {
+    width: 45%;
+    display: inline-block;
+    background-color: pink;
+    border-top-right-radius:150px ;
+    border-bottom-right-radius: 150px;
+}
+.imagenbox img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: 420px;
+    position: absolute ; 
+}
+
+.header {
+    margin-top: 10px;   
+}
+
+.Titulos {
+    margin-bottom: 10px;
+    width: 60%;
+    display:inline-block;
+    position: absolute;
+    padding-top: 100px;
+    float: right;
+    font-size: 16 px;
+    text-align: center;
+}
+.box1 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display:inline-block;
+    text-align: justify;
+    font-size: 5px;    
+}
+
+.box2 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display:inline-block;
+    text-align: justify;
+    font size: 5px;
+}
+.box3 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display:inline-block;
+    font-size: 5px;
+}
+.box4 {  
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display:inline-block;
+    font-size: 5px;
+}
+.box5 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display:inline-block;
+    font-size: 5px;
+}
+.box6 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display: inline-block;
+    text-align: justify;
+    font-size: 5px;
+}
+.box7 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display: inline-block;
+    font-size: 5px;
+}
+.box1 {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    width: 40%;
+    background-color: azure;
+    display: inline-block;
+    font-size: 5px;
+}
+footer {
+    height: 50px;
+    background-color: pink;
+    width: 100%;
+    text-align: center;
+}
+footer img {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
